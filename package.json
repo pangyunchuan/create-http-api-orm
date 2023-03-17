@@ -1,0 +1,27 @@
+{
+  "name": "create-http-api-orm",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "pangyunchuan",
+  "bin": {
+    "create-layer-app": "index.js"
+  },
+  "files": [
+    "index.js",
+    "template-*"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pangyunchuan/layer-app"
+  },
+  "homepage": "https://github.com/pangyunchuan/layer-app#readme",
+  "dependencies": {
+    "kolorist": "^1.5.1",
+    "minimist": "^1.2.5",
+    "prompts": "^2.4.2"
+  }
+}

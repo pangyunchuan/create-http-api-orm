@@ -1,0 +1,24 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.web.json",
+  "preserveValueImports": true,
+  "isolatedModules": true,
+  "include": [
+    "env.d.ts",
+    "src/**/*",
+    "src/**/*.vue"
+  ],
+  "compilerOptions": {
+    "isolatedModules": false,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
+  },
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
