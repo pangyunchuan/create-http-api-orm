@@ -1,3 +1,3 @@
 # layer-app template 
-详情 [layer-app](https://www.npmjs.com/package/layer-app)
+详情 [http-api-orm](https://www.npmjs.com/package/http-api-orm)
 
