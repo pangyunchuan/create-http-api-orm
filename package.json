@@ -1,6 +1,6 @@
 {
   "name": "create-http-api-orm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "author": "pangyunchuan",
   "bin": {
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pangyunchuan/layer-app"
+    "url": "git+https://github.com/pangyunchuan/create-http-api-orm"
   },
-  "homepage": "https://github.com/pangyunchuan/layer-app#readme",
+  "homepage": "https://github.com/pangyunchuan/create-http-api-orm#readme",
   "dependencies": {
     "kolorist": "^1.5.1",
     "minimist": "^1.2.5",
