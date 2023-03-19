@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "pangyunchuan",
   "bin": {
-    "create-template": "index.js"
+    "create-layer-app": "index.js"
   },
   "files": [
     "index.js",
