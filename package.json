@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "pangyunchuan",
   "bin": {
-    "create-template-1": "index.js"
+    "create-template": "index.js"
   },
   "files": [
     "index.js",
