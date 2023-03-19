@@ -1,10 +1,10 @@
 {
   "name": "create-http-api-orm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "license": "MIT",
   "author": "pangyunchuan",
   "bin": {
-    "create-layer-app": "index.js"
+    "create-http-api-orm": "index.js"
   },
   "files": [
     "index.js",

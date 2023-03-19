@@ -63,7 +63,7 @@ async function init() {
     let targetDir = argv._[0]
     let template = argv.template || argv.t
 
-    const defaultProjectName = !targetDir ? 'layer-app-project' : targetDir
+    const defaultProjectName = !targetDir ? 'template-project' : targetDir
 
     let result = {}
 
